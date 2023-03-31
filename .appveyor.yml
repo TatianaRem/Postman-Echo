@@ -1,7 +1,4 @@
-build_script:
-  - ./gradlew test --info
-  
-  image: Ubuntu
+image: Ubuntu
 
 stack: jdk 11 
 
